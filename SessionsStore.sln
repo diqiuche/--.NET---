@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionsStore", "SessionsStore.csproj", "{63BDAB61-DE6B-497D-B62A-B3E7FF068F8A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{23CA710A-2B04-4C30-BF80-1C1375D325B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionStoreWebApplication", "..\SessionStoreWebApplication\SessionStoreWebApplication.csproj", "{CCE988D8-B459-490B-A032-2C3E74D9798D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BDAB61-DE6B-497D-B62A-B3E7FF068F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BDAB61-DE6B-497D-B62A-B3E7FF068F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BDAB61-DE6B-497D-B62A-B3E7FF068F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BDAB61-DE6B-497D-B62A-B3E7FF068F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CA710A-2B04-4C30-BF80-1C1375D325B6}.Debug|Any CPU.ActiveCfg = Debug
+		{23CA710A-2B04-4C30-BF80-1C1375D325B6}.Release|Any CPU.ActiveCfg = Release
+		{CCE988D8-B459-490B-A032-2C3E74D9798D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE988D8-B459-490B-A032-2C3E74D9798D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE988D8-B459-490B-A032-2C3E74D9798D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE988D8-B459-490B-A032-2C3E74D9798D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

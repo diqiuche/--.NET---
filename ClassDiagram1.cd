@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SessionsStore.SessionStore">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAQMAAwCAQFUQIDQAAECABgBAAAKAEQAAgAACAgAA=</HashCode>
+      <FileName>SessionStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SessionsStore.SessionTransferChannel">
+    <Position X="3.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAgQIAKAACAAlBVCAACAECACAAAIA0AGABAAAAGAAUQ=</HashCode>
+      <FileName>SessionTransferChannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SessionsStore.SessionTransferChannelManager">
+    <Position X="6.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgKAACAAAgFAQACAFAQCAAAAAAACAgAAAAGAAAA=</HashCode>
+      <FileName>SessionTransferChannelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SessionsStore.WriteStreamPackaging">
+    <Position X="9.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAgAAABAAAAIAAAAACABAAAEYAAA=</HashCode>
+      <FileName>WriteStreamPackaging.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SessionsStore.EnumExpand">
+    <Position X="14" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>EnumExpand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SessionsStore.SessionStoreCommandHeader">
+    <Position X="11.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAUAABAAAEAAAAAAAAAAEAAAAAACAAAA=</HashCode>
+      <FileName>SessionStoreCommandHeader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SessionsStore.CharacterEncoding">
+    <Position X="11.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAgAAAAAAAABAAAAAAACBAAAEA=</HashCode>
+      <FileName>CharacterEncoding.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SessionsStore.SessionTransferNodeTypes">
+    <Position X="11.75" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAIAEAAEBAAAAgAAAAAAAIAAAAAAACACA=</HashCode>
+      <FileName>SessionTransferNodeTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="System" Size="8.01" />
+</ClassDiagram>
